@@ -1,0 +1,211 @@
+[
+  {
+    "nome": "morango",
+    "id": 1,
+    "calorias": 32,
+    "proteinas": 0.67,
+    "carboidratos": 7.68,
+    "img":"https://3.bp.blogspot.com/-8Cc6Gn2Wf7Y/VIi8k6ZrHPI/AAAAAAAAWlY/4zpKekL7R-g/s1600/04.png",
+    "color":"#BE2222",
+    "vitaminas":["A","C","D","E","K"],
+    "referencia": "100g de morangos frescos"
+  },
+  {
+    "nome": "laranja",
+    "id": 2,
+    "calorias": 43,
+    "proteinas": 1.0,
+    "carboidratos": 8.2,
+    "img":"https://th.bing.com/th/id/R.2f5299f64cf5409a18274f3d2181f88d?rik=6JpV9sRtTZAwEA&pid=ImgRaw&r=0",
+    "color":"#BE6D22",
+    "vitaminas":["A","B","C","E"],
+    "referencia": "100g de laranjas frescas"
+  },
+  { 
+    "nome": "uva", 
+    "id": 3,
+    "calorias": 69,
+    "proteinas": 0.72,
+    "carboidratos": 18.0,
+    "img":"https://uploads-ssl.webflow.com/5dd1816b0336821b51f4bd0f/5dd2fc432a6fa8e043205b35_koncentrirovannyj-vinogradnyj-sok_400.png",
+    "color":"#6722BE",
+    "vitaminas":["B","C","K"],
+    "referencia": "100g de uvas frescas"
+  },
+  {
+     "nome": "abacaxi", 
+    "id": 4,
+    "calorias": 50,
+    "proteinas": 0.54,
+    "carboidratos": 13.1,
+    "img":"https://th.bing.com/th/id/OIP.D6TdHdsVXADFlVJidZXdawHaGl?pid=ImgDet&rs=1",
+    "color":"#BEAF22",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de abacaxi fresco"
+  },
+  {
+    "nome": "maçã",
+    "id": 5,
+    "calorias": 52,
+    "proteinas": 0.25,
+    "carboidratos": 14.0,
+    "img":"https://th.bing.com/th/id/OIP.XprgHSCfPgHBpfQBBfAWqwHaFb?pid=ImgDet&rs=1",
+    "color":"#FF0000",
+    "vitaminas":["A","C"],
+    "referencia": "100g de maçã fresca"
+  },
+  {
+    "nome": "banana",
+    "id": 6,
+    "calorias": 89,
+    "proteinas": 1.09,
+    "carboidratos": 22.0,
+    "img":"https://th.bing.com/th/id/R.214eb85f4de629f85cb3cf518f3fb892?rik=VxlM3UBjEUvrHg&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fbanana-png-transparent%2fbanana-png-transparent-13.png&ehk=sQ3rXn55byDlOi8azoPEfOvy5At88xIag4wSY7DO3Ao%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#FFD700",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de banana fresca"
+  },
+  {
+    "nome": "pera",
+    "id": 7,
+    "calorias": 57,
+    "proteinas": 0.36,
+    "carboidratos": 15.5,
+    "img":"https://vitaminavida.com.ar/assets/img/peras.png",
+    "color":"#FFA500",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de pera fresca"
+  },
+  {
+    "nome": "abacate",
+    "id": 8,
+    "calorias": 160,
+    "proteinas": 2.0,
+    "carboidratos": 8.53,
+    "img":"https://www.pngmart.com/files/5/Avocado-Transparent-Background.png",
+    "color":"#0B380A",
+    "vitaminas":["A","B","C","E","K"],
+    "referencia": "100g de abacates frescos"
+  },
+  {
+    "nome": "kiwi",
+    "id": 9,
+    "calorias": 61,
+    "proteinas": 1.14,
+    "carboidratos": 14.6,
+    "img":"https://th.bing.com/th/id/OIP.mVtvhAbPNujhwQ8qELhHmQHaE2?pid=ImgDet&rs=1",
+    "color":"#8DB600",
+    "vitaminas":["A","B","C","E","K"],
+    "referencia": "100g de kiwis frescos"
+  },
+  {
+    "nome": "pêssego",
+    "id": 10,
+    "calorias": 39,
+    "proteinas": 0.91,
+    "carboidratos": 9.54,
+    "img":"https://th.bing.com/th/id/R.42007e786a1a7d75eeedd560c2ae7811?rik=yjmN74wCKd2a9Q&pid=ImgRaw&r=0",
+    "color":"#FFD700",
+    "vitaminas":["A","B","C","E","K"],
+    "referencia": "100g de pêssegos frescos"
+  },
+  {
+    "nome": "melancia",
+    "id": 11,
+    "calorias": 30,
+    "proteinas": 0.61,
+    "carboidratos": 7.55,
+    "img":"https://th.bing.com/th/id/R.076f59004caba3e65118886ad751dd3b?rik=OH%2fY0qPuAaMCAQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fwatermelon-hd-png-watermelon-png-image-1400.png&ehk=g1rTJirID8vPqrZt6HfxHnPZjR3WQ%2bCVZFX%2fc1nvsMc%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#FF2400",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de melancia fresca"
+  },
+  {
+    "nome": "cereja",
+    "id": 12,
+    "calorias": 50,
+    "proteinas": 1.06,
+    "carboidratos": 12.2,
+    "img":"https://www.pngplay.com/wp-content/uploads/1/Cherry-PNG-Free-Commercial-Use-Image.png",
+    "color":"#DC143C",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de cerejas frescas"
+  },
+  {
+    "nome": "manga",
+    "id": 14,
+    "calorias": 60,
+    "proteinas": 0.82,
+    "carboidratos": 15,
+    "img":"https://th.bing.com/th/id/R.672ca858b99cbd892a7bd7398a200e59?rik=ZxFFKPAJLR%2bIDQ&riu=http%3a%2f%2fwww.freepngimg.com%2fdownload%2fmango%2f4-2-mango-free-download-png.png&ehk=mrRk2fUrmC%2fUDh%2bU%2b%2bu%2b8rRwIIDzgQsxnksNLqsvij0%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#EFC72F",
+    "vitaminas":["A","C"],
+    "referencia": "100g de manga fresca"
+  },
+  {
+    "nome": "framboesa",
+    "id": 15,
+    "calorias": 52,
+    "proteinas": 1.2,
+    "carboidratos": 11.9,
+    "img":"https://th.bing.com/th/id/R.52ba9e05e5b48f007f5fd1e18875cf87?rik=RQgWJXrqJlCKxQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f04%2fRaspberry-Free-PNG-Image.png&ehk=KcfcCV1b6K%2fj2x3Qh0ZLn%2faPU3T2IqUxUCZmXFdwaQM%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#F4425F",
+    "vitaminas":["A","C"],
+    "referencia": "100g de framboesas frescas"
+  },
+  {
+    "nome": "abacaxi",
+    "id": 16,
+    "calorias": 50,
+    "proteinas": 0.54,
+    "carboidratos": 13.1,
+    "img":"https://th.bing.com/th/id/OIP.D6TdHdsVXADFlVJidZXdawHaGl?pid=ImgDet&rs=1",
+    "color":"#BEAF22",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de abacaxi fresco"
+  },
+  {
+    "nome": "mamão",
+    "id": 17,
+    "calorias": 43,
+    "proteinas": 0.47,
+    "carboidratos": 11,
+    "img":"https://vallefrutas.com.br/wp-content/uploads/papaya-01.png",
+    "color":"#EB8456",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de papaia fresca"
+  },
+  {
+    "nome": "limão",
+    "id": 18,
+    "calorias": 29,
+    "proteinas": 1.1,
+    "carboidratos": 9.3,
+    "img":"https://th.bing.com/th/id/OIP.YXlvHpA73abHyf4oaLPdlQHaHa?pid=ImgDet&rs=1",
+    "color":"#BDD14E",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de limão fresco"
+  },
+  {
+    "nome": "ameixa",
+    "id": 19,
+    "calorias": 46,
+    "proteinas": 0.7,
+    "carboidratos": 11.4,
+    "img":"https://th.bing.com/th/id/R.797fee758144446d61fcde3cf10d7335?rik=53wJJz2rTSbKvg&riu=http%3a%2f%2fimagensemoldes.com.br%2fwp-content%2fuploads%2f2018%2f08%2fImagem-de-Frutas-Ameixa-6-PNG.png&ehk=YvC3rBJg%2bQuJUZFTTN7iP6UrSAHnuvNk5dtu0ReBS9M%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#822D47",
+    "vitaminas":["A","B","C"],
+    "referencia": "100g de ameixas frescas"
+  },
+  {
+    "nome": "coco",
+    "id": 20,
+    "calorias": 354,
+    "proteinas": 3.3,
+    "carboidratos": 15,
+    "img":"https://th.bing.com/th/id/R.9c75bd5e26af5e184f6dfd34e3befb60?rik=flAouQzjmL7g7Q&riu=http%3a%2f%2f3.bp.blogspot.com%2f-HCP39n1nKsM%2fVXcmv73VjFI%2fAAAAAAAAFc0%2fmQ8IeI-mjv4%2fs1600%2fCOCO.png&ehk=1Ayf4E0DQWTsQqPXW3L1UV%2fdlLq1LN9tHaG7jUNBrFw%3d&risl=&pid=ImgRaw&r=0",
+    "color":"#966034",
+    "vitaminas":["A","B","C","E"],
+    "referencia": "100g de coco fresco"
+  }
+]
